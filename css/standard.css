@@ -1,0 +1,110 @@
+ /* ----- Global properties declaration ----- */
+html, body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, map, object, embed {  
+	margin:0; 
+	padding:0; 
+	border:0; 
+}
+
+body {
+	font-size:13px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	color:#3f3f3f;
+	background:#fff none top left no-repeat;
+	line-height:1.3em; /* Remember to update td and p declarations as well if this is changed */
+	text-align:center;
+}
+
+/* ----- Generic Links ----- */
+a:link, a:visited {
+	color: #009FC5;
+	text-decoration: underline;
+}
+
+a:hover, a:visited:hover { color:#B50000; }
+
+
+/* ----- Text Elements ----- */
+p {
+	padding:0 0 1em 0;
+	line-height:1.3em;
+}
+
+.larger { font-size:1.2em; }
+.large { font-size:1.1em; }
+.small { font-size:0.9em; }
+.smaller { font-size:0.8em; }
+
+/* ----- Image ----- */
+img {
+	border:0;
+	vertical-align:top;
+}
+
+.no_border { border:0; }
+
+.bordered { border:1px solid #ccc; }
+
+map { display:inline; }
+
+
+/* ----- Page Breakers ----- */
+hr {
+	height:1px;
+	color:#ccc;
+	background-color:#ccc;
+	border:0;
+}
+
+
+/* ----- Lists ----- */
+ul, ol {
+	margin:1em 0 1em 22px;
+	padding:0;
+	list-style-position:outside;
+}
+
+ul { list-style-type:disc; }
+ol { list-style-type:decimal; }
+
+ul li, ol li { margin:0 0 5px 0; }
+
+/* ----- Positioning ----- */
+.clearfix { display:inline-block; } /* for IE/Mac */
+.clearfix:after {
+	content: "";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+/* Hide from IE on Mac \*/
+.clearfix { display:block; }
+/* \* */
+
+.fleft { float:left; }
+.fright { float:right; }
+.aleft { text-align:left; }
+.aright { text-align:right; }
+.acenter { text-align:center; }
+.vtop, tr.vtop td { vertical-align:top; }
+.vmiddle, tr.vmiddle td { vertical-align:middle; }
+.vbottom, tr.vbottom td { vertical-align:bottom; }
+
+/* ----- Begin Type Properties ----- */
+h1,h2,h3,h4,h5,h6 {
+	color:#000;
+	font-weight:bold;
+	line-height:1.2em;
+	margin:0 0 0.7em;
+}
+
+h1 { font-size:1.8em; font-family:"Times New Roman", Times, Garamond, serif; font-weight:normal; margin-bottom:0.4em; }
+h2 { font-size:1.3em; }
+h3 { font-size:1.2em; }
+h4 { font-size:1.15em; }
+h5 { font-size:1.1em; }
+h6 { font-size:1em; margin-bottom:2px; }
+
+/* ----- Begin Table Properties ----- */
+td, th { line-height:1.3em; }
+.hidden { display:none; }

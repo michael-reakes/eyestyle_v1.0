@@ -1,0 +1,31 @@
+/* ----- User Interactivity Elements ----- */
+form { display:inline; }
+label { margin:0; padding:0; font-weight:normal; cursor:pointer; }
+.full { width:95%; }
+input, select, textarea { color:#000; font:1em Arial, Helvetica, Tahoma, sans-serif; padding:1px; margin:0; }
+.checkbox, .radio {	padding:0; width:auto !important; }
+fieldset .optiongroup label { display:inline; margin-left:5px; vertical-align:middle; }
+fieldset .optiongroup input { display:inline; margin:0; vertical-align:middle; width:auto; }
+fieldset ol { clear:both; list-style-type:none; margin:0; padding:0; }
+fieldset ol li.button input { width:auto; }
+fieldset li { list-style-type:none; margin:0 0 1em 0; padding:0; }
+fieldset label { display:block; margin:0 0 0.4em 0; padding:0; }
+fieldset td { padding:0 15px 15px 0; }
+button, a.actionbutton:link, a.actionbutton:visited { 
+	background-color:#000; 
+	border:0; 
+	color:#fff; 
+	cursor:pointer;
+	display:block; 
+	font:bold 14px "Times New Roman", Times, Garamond, serif; 
+	margin:1em 0; 
+	padding:5px 13px 7px;
+	text-transform:lowercase;
+}
+a.actionbutton:link, a.actionbutton:visited { float:left; text-decoration:none; }
+button:hover { background-color:#4d4d4d; }
+.required { color:#BE0000 }
+
+.msg-info, .msg-error { background-position:left center; background-repeat:no-repeat; font-weight:bold; margin-bottom:15px; min-height:20px; padding-left:32px; }
+.msg-info { background-image:url(../images/icons/tick.jpg); color:#006B33;}
+.msg-error { background-image:url(../images/icons/error.jpg); color:#8E0000; }

@@ -1,0 +1,103 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>EYESTYLE.COM.AU</title>
+</head>
+<body style="margin:0px auto 20px auto;font:11px Arial, Helvetica, Verdana, sans-serif;text-align:center;width:650px;">
+<div style="width:650px;margin:0px auto;text-align:left;">
+<table border="0" cellpadding="10" cellspacing="0" width="100%" style="font-size:11px;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid #999;">
+	<tr valign="top">
+		<td width="45%" style="padding:20px 30px 10px 0px;">
+			<div style="margin:0px 0px 10px 0px;"><a href="<tag:site />" target="_blank"><img src="<tag:image_path />logo.gif" alt="eyestyle" border="0" /></a></div>			
+			<table border="0" cellpadding="0" cellspacing="0" style="font-size:11px;">
+				<tr style="line-height:1.2em"><td width="35">ABN:</td><td><tag:abn /></td></tr>
+				<tr style="line-height:1.2em"><td>Email:</td><td><tag:email /></td></tr>
+			</table>
+		</td>
+		<td width="55%" style="padding:20px 0px 0px 0px;text-align:right;">
+			<img src="<tag:image_path />email/tax_invoice.gif" alt="Tax Invoice" width="166" height="38" />
+		</td>
+	</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:11px;font-weight:bold;margin:0px 0px 20px 0px;">
+	<tr valign="top">
+		<td>Invoice No: <tag:order_id /></td>
+		<td align="right">Invoice Date: <tag:order_date /></td>
+	</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:11px;margin:0px 0px 20px 0px;padding:0px 0px 15px 0px;">
+	<tr valign="top">
+		<td width="48%" style="border-bottom:1px solid #999;vertical-align:top;">
+			<table border="0" cellpadding="0" cellspacing="0" style="padding-right:5px;font-size:11px;" width="100%">
+				<tr>
+					<th style="border:1px solid #000;padding:5px 10px;text-align:left;">Invoice to</td>
+				</tr>
+				<tr>
+					<td style="padding:5px;">
+						<tag:billing_name /><br />
+						<tag:billing_address /><br />
+						<tag:billing_suburb /> <tag:billing_state /> <tag:billing_postcode /><br />
+						<tag:billing_country /><br />
+						Phone: <tag:billing_phone /><br />
+						Email: <tag:billing_email />
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td style="width:10px">&nbsp;&nbsp;</td>
+		<td width="48%" style="border-bottom:1px solid #999;vertical-align:top;">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:11px;">
+				<tr>
+					<th style="border:1px solid #000;padding:5px 10px;text-align:left;">Dispatched to</td>
+				</tr>
+				<tr>
+					<td style="padding:5px;">
+						<tag:delivery_name /><br />
+						<tag:delivery_address /><br />
+						<tag:delivery_suburb /> <tag:delivery_state /> <tag:delivery_postcode /><br />
+						<tag:delivery_country /><br />
+						Phone: <tag:delivery_phone />
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:11px;">
+	<tr>
+		<th style="border:1px solid #000;padding:5px 10px;text-align:left;">Description</th>
+		<th style="border:1px solid #000;padding:5px 10px;border-left:0px;width:50px;">Qty</th>
+		<th style="border:1px solid #000;padding:5px 10px;border-left:0px;width:93px;">Unit Price</th>
+		<th style="border:1px solid #000;padding:5px 10px;border-left:0px;width:68px;">Amount</th>
+	</tr>
+	<tag:purchased_products />
+	<tr>
+		<td style="border-bottom:1px solid #999;padding:10px;">Delivery and Handling</td>
+		<td style="border-bottom:1px solid #999;padding:10px;">&nbsp;</td>
+		<td style="border-bottom:1px solid #999;padding:10px;text-align:right"><tag:delivery /></td>
+		<td style="border-bottom:1px solid #999;padding:10px;text-align:right"><tag:delivery /></td>
+	</tr>
+
+</table>
+<div style="margin:15px 0px;float:right;width:230px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:11px;">
+	<tr>
+		<td style="font-weight:bold;padding:5px 10px;text-align:right;">TOTAL:</td>
+		<td style="padding:5px 10px;text-align:right;">AUD <tag:total /></td>
+	</tr>
+
+</table>
+</div>
+<div style="border-top:1px solid #999;clear:both;padding:10px 0px 0px 0px;" />
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:11px;">
+	<tr>
+		<td style="padding:5px 10px;">
+			You order was received on <tag:order_date /> Thank you!<br/>
+			Please retain this invoice as proof of purchase for warranty purposes. 
+		</td>
+	</tr>
+</table>
+</div>
+<tag:print />
+</body>
+</html>

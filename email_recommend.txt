@@ -1,0 +1,18 @@
+Hi <tag:email />,
+
+<tag:name /> (<tag:from />) has invited you to visit EYESTYLE.COM.AU.
+
+<tag:name />'s personal message to you:
+<tag:message />
+
+
+EYESTYLE.COM.AU is Australia's first dedicated online sunglasses store, featuring defined mens and womens collections and a user friendly interface.
+
+EYESTYLE.COM.AU is an authorised dealer stocking only authentic products, and all sunglasses are supplied from licensed Australian distributors and carry full product warranty. EYESTYLE.COM.AU stocks a diverse range of sunglasses from designers and manufacturers who are passionate about their product, both locally and internationally
+
+
+You can visit EYESTYLE.COM.AU at the following URL:
+http://www.eyestyle.com.au
+
+
+This invitation was sent to <tag:email /> on behalf of <tag:name />(<tag:from />).

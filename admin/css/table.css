@@ -1,0 +1,136 @@
+/* ----- Table */
+.data_table {
+	margin-bottom: 5px;
+}
+
+tr .table_product td {
+	font-size: 1em;
+	background-color: #F2F2F2;
+	padding: 5px 10px;
+	border-top: 1px solid #DDD;
+}
+
+tr .table_product a {
+	font-size: 1em;
+}
+
+tr .table_heading {
+	background-color: #D9D9D9;
+	text-align: center;
+	font-size:1em;
+}
+
+tr .table_heading th {
+	padding: 5px 10px;
+	border-top: 1px solid #A6A6A6;
+	border-bottom: 3px solid #FFF;
+	font-weight: bold;
+}
+
+tr .table_heading th a {
+	color: #000;
+}
+
+tr .table_row td {
+	font-size:1em;
+	background-color: #F2F2F2;
+	padding: 5px 10px;
+	border-top: 1px solid #DDD;
+}
+
+tr .table_row_product td {
+	font-size:1em;
+	background-color: #D9D9D9;
+	padding: 5px 10px;
+	border-top: 1px solid #DDD;
+}
+
+tr .table_row_colour td {
+	font-size:1em;
+	background-color: #ccc;
+	padding: 5px 10px;
+	border-top: 10px solid #FFF;
+}
+
+
+tr .table_row a {
+	font-size:1em;
+}
+
+tr .table_subrow td {
+	color: #333;
+	padding: 5px 10px;
+}
+
+tr .table_subrow .heading {
+	color: #808080;
+}
+
+td .auto a{
+	font-size:1em;
+}
+
+.column_selected {
+	background-color: #808080;
+}
+
+.column_selected a:link, .column_selected a:visited {
+	color: #FFF;
+}
+
+.attribute_label {
+	font-weight:bold;
+	vertical-align:top;
+	padding: 5px 5px 5px 0px;
+	font-size:1.1em;
+}
+
+.attribute_value {
+	vertical-align:top;
+	padding: 5px;
+	font-size:1.1em;
+}
+
+.row_ab_a {
+	background-color: #E5E5E5;
+}
+
+.row_ab_b {
+	background-color: #FEFEFE;
+}
+
+/* FOR CUSTOMER & ORDER VIEW */
+.float_panel_title {
+	background-color:#7FC31C;
+	border:1px solid #bbb;
+	color:#fff;
+	padding:5px;
+}
+
+.float_panel_body {
+	border:1px solid #bbb;
+	border-top:0px;
+	padding:0px;
+}
+
+.float_panel_col_left, .float_panel_col_right {
+	padding:4px 5px;
+	vertical-align:middle;
+}
+
+.float_panel_col_left {
+	width: 75%;
+}
+
+.float_panel_col_right {
+	width:25%;
+	text-align: right;
+}
+
+
+a.set_order_status:link, a.set_order_status:visited {
+	padding:7px 10px;
+	background-color:#7FC31C;
+	border:1px solid #999;
+	font-weight:bold;
+}

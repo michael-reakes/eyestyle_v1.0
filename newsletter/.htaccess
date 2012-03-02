@@ -1,0 +1,33 @@
+#************************************************************************/
+#* Google Tap Beta 0.5.0 - 09 Feb 2003                                  */
+#* Copyright (c) 2002 by Nuke Cops                                      */
+#* http://nukecops.com                                                  */
+#*                                                                      */
+#* This program is free software. You can redistribute it and/or modify */
+#* it under the terms of the GNU General Public License as published by */
+#* the Free Software Foundation; either version 2 of the License.       */
+#************************************************************************/
+
+#Directions: rename this file to ".htaccess" without quotes.
+
+DirectoryIndex index.php index.cgi index.pl index.shtml index.html
+
+# deny most common except .php
+<FilesMatch "\.(inc|tpl|h|ihtml|sql|ini|conf|class|bin|spd|theme|module|exe)$">
+deny from all
+</FilesMatch>
+
+#Disable .htaccess viewing from browser
+<Files ~ "^\.ht">
+    Order allow,deny
+    Deny from all
+    Satisfy All
+</Files>
+
+<Files ~ "\config.php$">
+Deny from all
+</Files>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine off
+</IfModule>

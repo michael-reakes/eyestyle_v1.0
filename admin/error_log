@@ -1,0 +1,163 @@
+[02-Mar-2006 17:18:48] PHP Warning:  imagettftext(): Could not find/open font in /home/eye32354/public_html/admin/action_product_brand_add.php on line 20
+[02-Mar-2006 17:18:48] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[02-Mar-2006 17:18:58] PHP Warning:  imagettftext(): Could not find/open font in /home/eye32354/public_html/admin/action_product_category_add.php on line 24
+[02-Mar-2006 17:18:58] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[03-Mar-2006 11:09:16] PHP Warning:  imagettftext(): Could not find/open font in /home/eye32354/public_html/admin/action_product_brand_add.php on line 20
+[03-Mar-2006 11:09:16] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[03-Mar-2006 14:31:33] PHP Warning:  imagecreatefromjpeg(): '../images/storefront/1.jpg' is not a valid JPEG file in /home/eye32354/public_html/admin/action_store_front.php on line 26
+[03-Mar-2006 14:31:33] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_store_front.php on line 27
+[03-Mar-2006 14:31:33] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_store_front.php on line 29
+[03-Mar-2006 14:31:33] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_store_front.php on line 31
+[03-Mar-2006 14:31:33] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_store_front.php on line 33
+[03-Mar-2006 14:31:33] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_store_front.php on line 35
+[03-Mar-2006 14:31:33] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_store_front.php on line 42
+[03-Mar-2006 14:31:33] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[19-Apr-2006 18:40:28] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[19-May-2006 10:05:30] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[19-May-2006 10:05:34] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[09-Jun-2006 13:35:06] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[21-Jul-2006 19:13:19] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_product_brand.php on line 8
+[10-Oct-2006 11:13:14] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[23-Oct-2006 17:30:44] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/eye32354/public_html/include/db/db_class.php on line 39
+[23-Oct-2006 17:30:46] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/eye32354/public_html/include/db/db_class.php on line 39
+[24-Oct-2006 14:46:57] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_product_product.php on line 8
+[24-Oct-2006 14:47:10] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_product_product.php on line 8
+[24-Oct-2006 14:47:13] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_product_product.php on line 8
+[10-Nov-2006 16:27:32] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/eye32354/public_html/admin/product_product_add.php on line 15
+[10-Nov-2006 16:28:20] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/eye32354/public_html/admin/product_product_add.php on line 15
+[13-Nov-2006 12:07:55] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[22-Nov-2006 10:56:31] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[23-Nov-2006 11:32:00] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/eye32354/public_html/include/db/db_class.php on line 39
+[13-Dec-2006 14:34:13] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[14-Dec-2006 17:27:12] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[18-Dec-2006 15:00:42] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[22-Feb-2007 12:04:50] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[22-Feb-2007 12:07:50] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[17-Oct-2007 08:39:06] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[17-Oct-2007 08:39:09] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[17-Oct-2007 08:39:12] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[17-Oct-2007 08:39:13] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[17-Oct-2007 08:39:14] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[25-Oct-2007 13:42:00] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[25-Oct-2007 13:42:03] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[29-Dec-2007 18:06:09] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[29-Dec-2007 18:06:15] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[08-Jan-2008 10:53:44] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[08-Jan-2008 15:02:46] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[08-Jan-2008 15:07:00] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[08-Jan-2008 15:07:07] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[08-Jan-2008 15:07:12] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[08-Jan-2008 15:07:28] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[17-Feb-2008 19:22:16] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[13-May-2008 06:58:57] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[26-May-2008 15:23:52] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[26-May-2008 15:23:57] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[26-May-2008 15:24:07] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[26-May-2008 15:24:11] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[26-May-2008 15:24:14] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[16-Jul-2008 09:06:57] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[05-Aug-2008 16:28:18] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Lost connection to MySQL server during query in /home/eye32354/public_html/include/db/db_class.php on line 39
+[15-Aug-2008 09:44:29] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[18-Aug-2008 12:28:49] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[28-Aug-2008 11:43:24] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/eye32354/public_html/include/db/db_class.php on line 39
+[28-Aug-2008 11:43:24] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/eye32354/public_html/include/db/db_class.php on line 39
+[08-Sep-2008 11:04:03] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[18-Sep-2008 13:31:03] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[09-Oct-2008 21:33:15] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[12-Oct-2008 22:07:34] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[12-Oct-2008 22:08:04] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[12-Oct-2008 22:08:43] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[13-Oct-2008 21:14:21] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[13-Oct-2008 21:14:31] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[13-Oct-2008 21:14:37] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[13-Oct-2008 21:14:55] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[04-Nov-2008 20:35:08] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_store_front.php on line 58
+[02-Dec-2008 11:34:35] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[27-Jan-2009 09:37:04] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[27-Jan-2009 09:58:22] PHP Fatal error:  Call to a member function on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[02-Jul-2009 15:59:21] PHP Parse error:  syntax error, unexpected ';' in /home/eye32354/public_html/include/utils/utils_thumbnails.php on line 40
+[15-Oct-2009 22:28:07] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 22:28:14] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[15-Oct-2009 22:28:14] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 22:28:31] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 22:28:31] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 22:29:22] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 22:29:29] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[15-Oct-2009 22:29:29] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 22:29:32] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 23:34:42] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 23:45:01] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 23:45:05] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[15-Oct-2009 23:45:05] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[15-Oct-2009 23:45:08] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/eye32354/public_html/include/db/db_session.php on line 39
+[04-Nov-2009 03:04:33] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/eye32354/public_html/include/db/db_class.php on line 39
+[12-Apr-2010 11:03:27] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[12-Apr-2010 11:03:30] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[19-Apr-2010 00:40:14] PHP Warning:  unlink(../images/storefront/banner_11.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 106
+[19-Apr-2010 00:40:14] PHP Warning:  imagecreatefromjpeg(../images/storefront/11.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 118
+[19-Apr-2010 00:40:14] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 119
+[19-Apr-2010 00:40:14] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 121
+[19-Apr-2010 00:40:14] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 123
+[19-Apr-2010 00:40:14] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 125
+[19-Apr-2010 00:40:14] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 127
+[19-Apr-2010 00:40:14] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 132
+[19-Apr-2010 00:40:14] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[19-Apr-2010 00:43:13] PHP Warning:  unlink(../images/storefront/banner_11.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 106
+[19-Apr-2010 00:43:13] PHP Warning:  imagecreatefromjpeg(../images/storefront/11.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 118
+[19-Apr-2010 00:43:13] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 119
+[19-Apr-2010 00:43:13] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 121
+[19-Apr-2010 00:43:13] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 123
+[19-Apr-2010 00:43:13] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 125
+[19-Apr-2010 00:43:13] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 127
+[19-Apr-2010 00:43:13] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 132
+[19-Apr-2010 00:43:13] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[25-Apr-2010 03:33:50] PHP Warning:  unlink(../images/storefront/banner_6.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 106
+[25-Apr-2010 03:33:50] PHP Warning:  imagecreatefromjpeg(../images/storefront/6.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 118
+[25-Apr-2010 03:33:50] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 119
+[25-Apr-2010 03:33:50] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 121
+[25-Apr-2010 03:33:50] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 123
+[25-Apr-2010 03:33:50] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 125
+[25-Apr-2010 03:33:50] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 127
+[25-Apr-2010 03:33:50] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 132
+[25-Apr-2010 03:33:50] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[25-Apr-2010 03:34:12] PHP Warning:  unlink(../images/storefront/banner_6.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 106
+[25-Apr-2010 03:34:12] PHP Warning:  imagecreatefromjpeg(../images/storefront/6.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 118
+[25-Apr-2010 03:34:12] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 119
+[25-Apr-2010 03:34:12] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 121
+[25-Apr-2010 03:34:12] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 123
+[25-Apr-2010 03:34:12] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 125
+[25-Apr-2010 03:34:12] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 127
+[25-Apr-2010 03:34:12] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 132
+[25-Apr-2010 03:34:12] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[25-Apr-2010 03:34:35] PHP Warning:  unlink(../images/storefront/banner_6.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 106
+[25-Apr-2010 03:34:35] PHP Warning:  imagecreatefromjpeg(../images/storefront/6.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 118
+[25-Apr-2010 03:34:35] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 119
+[25-Apr-2010 03:34:35] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 121
+[25-Apr-2010 03:34:35] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 123
+[25-Apr-2010 03:34:35] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 125
+[25-Apr-2010 03:34:35] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 127
+[25-Apr-2010 03:34:35] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 132
+[25-Apr-2010 03:34:35] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[25-Apr-2010 03:36:16] PHP Warning:  unlink(../images/storefront/banner_6.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 106
+[25-Apr-2010 03:36:16] PHP Warning:  imagecreatefromjpeg(../images/storefront/6.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/eye32354/public_html/admin/action_product_product_edit.php on line 118
+[25-Apr-2010 03:36:16] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 119
+[25-Apr-2010 03:36:16] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 121
+[25-Apr-2010 03:36:16] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 123
+[25-Apr-2010 03:36:16] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 125
+[25-Apr-2010 03:36:16] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/eye32354/public_html/admin/action_product_product_edit.php on line 127
+[25-Apr-2010 03:36:16] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/eye32354/public_html/admin/action_product_product_edit.php on line 132
+[25-Apr-2010 03:36:16] PHP Fatal error:  http::redirect - headers already sent. in /home/eye32354/public_html/include/http/http.php on line 129
+[07-May-2010 10:34:31] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[23-Jun-2010 06:51:34] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[08-Jul-2010 00:10:14] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[07-Sep-2010 23:07:51] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[01-Nov-2010 22:07:10] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[01-Jun-2011 11:55:49] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[29-Jun-2011 14:22:24] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[20-Oct-2011 22:19:18] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[02-Nov-2011 22:02:58] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[15-Nov-2011 08:49:05] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[15-Nov-2011 08:49:08] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[28-Nov-2011 00:06:50] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[28-Nov-2011 00:06:57] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8
+[07-Dec-2011 09:39:51] PHP Fatal error:  Call to a member function validate() on a non-object in /home/eye32354/public_html/admin/action_login.php on line 8

@@ -1,0 +1,3 @@
+/* IE6 and below Hacks */
+td, th { font-size:12px; }
+#frame, #content { zoom:1; }

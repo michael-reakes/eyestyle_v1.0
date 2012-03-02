@@ -1,0 +1,1 @@
+[28-Jun-2006 11:27:35] PHP Warning:  unlink(../../../../../../../userfiles/Image/26_1.jpg): No such file or directory in /home/eye32354/public_html/include/fckeditor/editor/filemanager/browser/default/actions/delete.php on line 21
